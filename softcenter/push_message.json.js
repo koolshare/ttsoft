@@ -1,6 +1,6 @@
 {
 "title":"<b>欢迎来到koolshare tomato软件中心</b>",
-"content1":"<font color='#FF0033'><b>通知：<b>Advacned Tomato V3.4-140 koolshare 改版固件 X1.4已发，更新日志和下载地址请见：<a href='http://koolshare.cn/thread-98787-1-1.html'>http://koolshare.cn/thread-98787-1-1.html</a></font>",
-"content2":"<font color='#1E90FF'>如果你刷了v3.4-140-X1.4版本固件,而在【USB和NAS】的缩略图还是加号的话，请按以下操作强制更新软件中心：</font>",
-"content3":"<font color='#1E90FF'>1：安装并进入webshell插件&nbsp;&nbsp;&nbsp;&nbsp;2：输入命令 dbus set softcenter_version=0.3.2&nbsp;&nbsp;&nbsp;&nbsp;3：进入软件中心，更新软件中心。&nbsp;&nbsp;&nbsp;&nbsp;4：Ctrl + F5强制刷新一次网页。</font>"
+"content1":"<font color='#FF0033'><b>插件下架通知（2017年7月17日）：</b></font>",
+"content2":"<font color='#1E90FF'>应有关部门通知要求，现对梅林固件软件中心内翻墙软件shadowsocks、shadowvpn进行下架处理;</font>",
+"content3":"<font color='#1E90FF'>插件下架后将不能通过软件中心提供的在线服务进行安装，更新等操作。</font>"
 }

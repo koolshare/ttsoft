@@ -32,17 +32,6 @@
             "version": "1.3"
         }, 
         {
-            "build_date": "2017-05-02_23:31:37", 
-            "description": "fuck gfw", 
-            "home_url": "Module_shadowsocks.asp", 
-            "md5": "e9e2b42dbb507936080671e7fd40221f", 
-            "module": "shadowsocks", 
-            "name": "shadowsocks", 
-            "tar_url": "shadowsocks/shadowsocks.tar.gz", 
-            "title": "shadowsocks", 
-            "version": "1.2.7"
-        }, 
-        {
             "build_date": "2017-03-22_19:24:37", 
             "description": "softether_vpn", 
             "home_url": "Module_softether_vpn.asp", 
@@ -94,7 +83,7 @@
         }
     ], 
     "home_url": "https://raw.githubusercontent.com/koolshare/koolshare.github.io/master", 
-    "md5": "da19a35f3582473474a99e2edf3be5da", 
+    "md5": "6ce2d11e6469bb6f34f299644805e9fb", 
     "tar_url": "softcenter/softcenter.tar.gz", 
     "version": "0.3.3"
 }
