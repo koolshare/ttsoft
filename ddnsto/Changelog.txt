@@ -1,4 +1,6 @@
 Koolshare Asuswrt-Merlin ddnsto Changelog
 ===========================================
+1.8
+   - Update	替换新版客户端（盲改）
 1.0.0
    - add	add ddnsto support

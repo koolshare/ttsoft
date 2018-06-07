@@ -42,7 +42,7 @@ function get_run_status(){
 			setTimeout("get_run_status();", 5000);
 		}
 	});
-}	
+}
 
 //console.log('Apps',Apps);
 //数据 -  绘制界面用 - 直接 声明一个 Apps 然后 post 到 sh 然后 由 sh 执行 存到 dbus
@@ -105,7 +105,7 @@ function save(){
 	  error: error,
 	  dataType: "json"
 	});
-	
+
 	//-------------- post Apps to dbus ---------------
 }
 </script>
@@ -114,7 +114,7 @@ function save(){
 <div class="content">
 	<span class="col" style="line-height:30px;width:700px">
 	ddnsto是koolshare小宝开发的，支持http2的快速穿透。<br />
-	你需要先到<a id="gfw_number" href="https://ddns.to" target="_blank"> https://ddns.to </a>注册，然后在本插件内填入帐号和密码，再登录<a id="gfw_number" href="https://ddns.to" target="_blank"> https://ddns.to </a>设置穿透。<br />
+	你需要先到<a id="gfw_number" href="https://www.ddnsto.com" target="_blank"> https://www.ddnsto.com </a>注册，然后在本插件内填入帐号和密码，再登录<a id="gfw_number" href="https://www.ddnsto.com" target="_blank"> https://www.ddnsto.com </a>设置穿透。<br />
 </div>
 </div>
 

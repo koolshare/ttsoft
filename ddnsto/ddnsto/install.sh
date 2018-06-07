@@ -24,7 +24,7 @@ dbus set softcenter_module_ddnsto_description=宝宝穿透
 dbus set softcenter_module_ddnsto_install=1
 dbus set softcenter_module_ddnsto_name=ddnsto
 dbus set softcenter_module_ddnsto_title=ddnsto
-dbus set softcenter_module_ddnsto_version=1.0.0
+dbus set softcenter_module_ddnsto_version=1.8
 
 
 sleep 1
