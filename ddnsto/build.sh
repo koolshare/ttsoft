@@ -1,11 +1,10 @@
 #!/bin/sh
 
 MODULE=ddnsto
-VERSION=1.7
+VERSION=1.8
 TITLE=ddnsto
 DESCRIPTION=支持http2协议的快速穿透
 HOME_URL=Module_ddnsto.asp
-#!/bin/sh
 # Check and include base
 DIR="$( cd "$( dirname "$BASH_SOURCE[0]" )" && pwd )"
 
