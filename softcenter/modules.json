@@ -1,5 +1,4 @@
 [
-{"module": "koolproxy", "git_source": "https://github.com/koolproxy/ttsoft-koolproxy.git"},
 {"module": "xunlei", "git_source": "https://github.com/Kenneyzh/xunlei.git"},
 {"module": "syncthing", "git_source": "https://github.com/Kenneyzh/syncthing.git"},
 {"module": "kuainiao", "git_source": "https://github.com/Kenneyzh/kuainiao.git"},
